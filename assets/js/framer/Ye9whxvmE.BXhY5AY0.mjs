@@ -1,0 +1,4 @@
+import{t as e}from"./rolldown-runtime.OA-FSkXT.mjs";function t(e,t){return{breakpoints:[{hash:`fmi7ta`,mediaQuery:`(min-width: 1200px)`},{hash:`19jf3al`,mediaQuery:`(min-width: 810px) and (max-width: 1199px)`},{hash:`lbl2xc`,mediaQuery:`(max-width: 809px)`}],description:`Eupay integrates with Stripe, Slack, QuickBooks, and more to streamline your workflow and payment process.
+
+`,elements:{},framerSearch:{index:!0},robots:`max-image-preview:large`,serializationId:`framer-z75mi`,title:`Eupay - Connect with Top Tools`,viewport:`width=device-width`}}var n,r,i=e((()=>{n=1,r={exports:{default:{type:`function`,annotations:{framerContractVersion:`1`}},metadataVersion:{type:`variable`,annotations:{framerContractVersion:`1`}},__FramerMetadata__:{type:`variable`}}}}));export{n as i,i as n,t as r,r as t};
+//# sourceMappingURL=Ye9whxvmE.BXhY5AY0.mjs.map
